@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ArduinoControl",
+			"path": "../PlatformIO/Projects/ArduinoControl"
+		},
+		{
+			"name": "HppbArduinoControl",
+			"path": "ArduinoControl/HppbArduinoControl"
+		}
+	],
+	"settings": {}
+}
