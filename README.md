@@ -11,6 +11,15 @@ This project is an AI-powered waste classification system designed to identify a
 
 
 
+| **📅 Development Period** | **February 15, 2024 – November 18, 2024** |
+|-------------------------|-------------------------------------------|
+
+
+
+---
+
+
+
 ### 📊 Waste Categories
 
 The system classifies waste into the following six categories:
@@ -22,7 +31,6 @@ The system classifies waste into the following six categories:
 | **2**        | Paper           |
 | **3**        | Can             |
 | **4**        | Vinyl           |
-| **5**        | General Waste   |
 
 
 
