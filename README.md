@@ -3,7 +3,7 @@
 
 
 ### 📖 Overview
-This project is an AI-powered waste classification system designed to identify and categorize waste into six different types using a machine learning model. By leveraging TensorFlow, OpenCV, and Arduino, this system can classify waste in real time and control hardware components like servo motors for automated sorting.
+This project is an AI-powered waste classification system designed to identify and categorize waste into five different types using a machine learning model. By leveraging TensorFlow, OpenCV, and Arduino, this system can classify waste in real time and control hardware components like servo motors for automated sorting.
 
 
 
