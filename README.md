@@ -40,14 +40,14 @@ The system classifies waste into the following six categories:
 
 ### 💻 Technology Stack
 
-- **Programming Languages**: Python 3.10, C++
-- **Machine Learning Framework**: TensorFlow 2.16.2
+- **Programming Languages**: `Python` (3.10), `C++`
+- **Machine Learning Framework**: `TensorFlow` (2.16.2)
 - **Deep Learning Support**:
   - `keras` (2.8.0)
   - `tensorflow-macos` (2.8.0)
   - `tensorflow-io-gcs-filesystem` (0.37.1)
-- **Image Processing**: OpenCV (4.5.5.64)
-- **Hardware Integration**: Arduino (PlatformIO)
+- **Image Processing**: `OpenCV` (4.5.5.64)
+- **Hardware Integration**: `Arduino` (PlatformIO)
 - **Other Tools**:
   - `numpy` (1.23.5) for numerical computations
   - `protobuf` (3.20.3) for model compatibility
